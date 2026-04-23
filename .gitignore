@@ -16,3 +16,6 @@ build/
 
 # OS junk
 .DS_Store
+
+# testing
+test/
