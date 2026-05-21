@@ -4,8 +4,8 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "sqlz"
-version = "0.0.4"
-description = "A RDBMS Using Python"
+version = "1.0.0"
+description = "A Library to view mysql tables in Python, Just like how it looks in mysql."
 readme = "README.md"
 authors = [
   { name="Ashin Jiyo", email="ashinjiyo639@gmail.com" }

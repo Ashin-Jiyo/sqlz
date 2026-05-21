@@ -1,3 +1,3 @@
-from .main import table, view
+from .main import view
 
-__all__ = ["table", "view"]
+__all__ = ["view"]
